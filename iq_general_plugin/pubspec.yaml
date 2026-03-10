@@ -1,10 +1,10 @@
 name: iq_general_plugin
-description: "A new Flutter plugin project."
+description: "This belongs to a general API encapsulation plugin"
 version: 0.0.1
 homepage: https://github.com/tqgugemail-ops/iq_general_plugin.git
 
 environment:
-  sdk: ^3.10.7
+  sdk: '>=3.7.2 <4.0.0' #^3.10.7
   flutter: '>=3.3.0'
 
 dependencies:
